@@ -1,16 +1,19 @@
-## Hi there 👋
+### Boas vindas ao meu perfil❤️
+Eu sou sophia 🍀
 
-<!--
-**sophiagomes5/sophiagomes5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+estou estudando na platafroma [Alura](https://cursos.alura.com.br).
+estou me desenvolvendo na linguagem JavaScript
+ultilizo esse espaço pra minha organizaçao e compartilhamento dos meus projetos desenvolvidos!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+### Você pode entrar em contato☎️
+
+00001116153506sp@al.educacao.sp.gov.br
+
+
+
+
+![](https://lastfm.freetls.fastly.net/i/u/avatar170s/4b04406d1e5552ded42d722725b573b1)
